@@ -1,1 +1,1 @@
-This is an project for testing my github skill.
+This is an project for testing my github skills.
